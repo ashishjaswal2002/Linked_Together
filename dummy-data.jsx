@@ -1,33 +1,34 @@
+
 const DUMMY_Events  = [
 
     {
         id:'e1',
-        title:'Programming For everyone',
+        title:'Two Humans',
         description:'Everyone can lear to code! Yes everyone! In this live event,we are going'
       ,location:'Somstreet 35,1235 San Somwhere',
       date:'2021-05-12',
-      image:'/images/codingchair.jpeg',
+      image: 'images/coding.jpg',
       isFeautred:true,
 
     }
     ,
     {
         id:'e2',
-        title:'Programming For everyone',
+        title:'This man',
         description:'Everyone can lear to code! Yes everyone! In this live event,we are going'
       ,location:'Somstreet 35,1235 San Somwhere',
       date:'2021-05-12',
-      image:'/images/coding2.jpeg',
+      image:'images/codingchair.jpg',
       isFeautred:false,
 
     },
     {
         id:'e3',
-        title:'Programming For everyone',
+        title:'That Girl',
         description:'Everyone can lear to code! Yes everyone! In this live event,we are going'
       ,location:'Somstreet 35,1235 San Somwhere',
       date:'2021-05-12',
-      image:'/images/introvert.jpeg',
+      image:'images/intro.jpg',
       isFeautred:true,
 
     }
