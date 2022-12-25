@@ -5,4 +5,4 @@ function FilteredEventsPage(){
     </div>
  )   
 }
-export default FilteredEventsPage;
+export default FilteredEventsPage; 

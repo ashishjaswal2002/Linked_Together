@@ -48,5 +48,10 @@ export function getAllEvents(){
 
         return eventDate.getFullYear()===year && eventDate.getMonth()===month-1
     });
+    return filteredEvents;
+ }
+
+ export function getEventId(id){
+  return DUMMY_Events.find((event=> event.id===id));
  }
 
