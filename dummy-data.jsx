@@ -6,7 +6,7 @@ const DUMMY_Events  = [
         title:'Two Humans',
         description:'Everyone can lear to code! Yes everyone! In this live event,we are going'
       ,location:'Somstreet 35,1235 San Somwhere',
-      date:'2021-05-12',
+      date:'2022-05-12',
       image: 'images/coding.jpg',
       isFeautred:true,
 
